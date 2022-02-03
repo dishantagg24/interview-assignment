@@ -1,0 +1,17 @@
+.deployement {
+  width: 100%;
+  background-color: #182f60;
+  color: #fdfdfe;
+  border-radius: 10px;
+  padding: 5px 5px;
+  text-align: center;
+}
+
+h2 {
+  margin: 0 0 15px 15px;
+}
+
+.graph {
+  width: 70%;
+  color: #fdfdfe;
+}
